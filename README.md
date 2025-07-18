@@ -57,5 +57,6 @@
       <li>Task: Allows modification of class member variables even if the object is declared as const.</li>
     </ul>
   </li>
-</ol>
-<h2>Conclusion : I learnt about various data types and how to store them using various storage classes.</h2>
+</ol><br>
+<h2>Conclusion : </h2>
+  <h4>I learnt about various data types and how to store them using various storage classes.</h4>
